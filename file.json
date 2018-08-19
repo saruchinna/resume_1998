@@ -1,0 +1,45 @@
+{
+	"basic details":{
+		"image":"image.jpg",
+		"name":"saranya",
+		"email":"amadasanisaranya@apssdc.in",
+		"phpne":"8309883052",
+		"address":"2-24,guntur"
+	},
+	"education":[
+		{
+			"course":"btech(cse)",
+			"college":"vignan nirula",
+			"percentage":"78"
+
+		},
+		{
+			"course":"intermediate(mpc)",
+		
+			"college":"vignan nirula",
+			"percentage":"98"
+        },
+        {
+        	"course":"ssc",
+        	"school":"cps",
+        	"percentage":"90"
+        }
+    ],
+
+"skills":[
+{
+	"name":"operating systems",
+	"value":"Windows,Linux,MAC"
+},
+{
+	"name":"programming languages",
+	"value":"C,C++,Java,Python"
+}
+],
+"carrier":{
+
+	"software engineer":"i want to become a software and i am using my knowledge and skills to devolop some web apps"
+},
+"description":{
+	"im using my skills to devolop web apps"
+}
